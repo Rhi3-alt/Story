@@ -1,1 +1,3 @@
-Im learning a bunch of stuff about git on this human shaped planet
+Im learning a bunch of stuff about git on this human shaped planet. 
+After much thinking, I decided to go to a robot themed planet instead filled with
+robots that did all your cleaning
